@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7y/giphy.gif" width="28"/> 
-  <b>Final Year B.Tech CSE</b> · Full-Stack Developer · Backend Focused
+  <b>Final Year B.Tech CSE</b> · Full-Stack Developer · frontend focused
 </div>
 
 <br/>
@@ -49,7 +49,7 @@ I focus on writing maintainable code, designing good APIs, and understanding how
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,redux,nodejs,express,mongodb,mysql,tailwind,materialui,git,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mongodb,mysql,tailwind,git,vscode,postman&theme=dark" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ I focus on writing maintainable code, designing good APIs, and understanding how
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
-      <p>Modern personal portfolio built with TypeScript, React, Tailwind CSS and Vite.</p>
+      <p>Modern personal portfolio built with TypeScript, React, Tailwind CSS</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
