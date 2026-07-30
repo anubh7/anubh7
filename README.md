@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Hi%2C+I'm+Anubhav+Gupta;Full-Stack+Developer;Backend+%26+System+Design+Enthusiast;Building+Real-World+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Hi%2C+I'm+Anubhav+Gupta;Full-Stack+Developer;Problem+Solver+%26+Tech+Enthusiast;Building+Real-World+Products" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7y/giphy.gif" width="28"/> 
-  <b>Final Year B.Tech CSE</b> · Full-Stack Developer · frontend focused
+  <b>Final Year B.Tech CSE</b> · Full-Stack Developer · Problem Solver & Tech Enthusiast
 </div>
 
 <br/>
@@ -49,7 +49,7 @@ I focus on writing maintainable code, designing good APIs, and understanding how
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mongodb,mysql,tailwind,git,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,redux,nodejs,express,mongodb,mysql,tailwind,materialui,git,vscode,postman&theme=dark" />
 </p>
 
 ---
@@ -82,71 +82,4 @@ I focus on writing maintainable code, designing good APIs, and understanding how
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📋 Task Management App</h3>
-      <p>Full-stack task manager with user authentication and complete CRUD functionality. Clean and practical implementation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-      <a href="https://github.com/anubh7/task_managementapp"><b>→ View Project</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Modern personal portfolio built with TypeScript, React, Tailwind CSS</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://github.com/anubh7/MYportfolio"><b>→ View Project</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubh7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubh7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubh7&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-### 🎯 Currently Focusing On
-
-- Backend architecture & System Design  
-- Writing cleaner, production-ready code  
-- Consistent DSA practice  
-- Building data-driven full-stack applications
-
----
-
-<div align="center">
-
-### 📬 Let's Connect
-
-I'm actively looking for opportunities where I can contribute and grow.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/anubhav-gupta-428b0932a">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/anubhavleetc/">
-  <img src="https://img.shields.io/badge/Check_my_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-⭐ **Thanks for visiting!** Feel free to explore my repositories.
-
-</div>
+      <h3>📋
